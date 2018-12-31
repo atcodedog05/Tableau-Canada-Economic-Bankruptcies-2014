@@ -5,3 +5,6 @@ Canada Economic Bankruptcies 2014 Self Use Workbook. Workbook designed specifica
 1. `.twb` : is the desktop workbook file.
 
 2. `.twbx` : is the packaged file openable in reader.
+
+
+Tableau Public Workbook: https://public.tableau.com/views/CanadaEconomicBankruptcies/CoverPage?:embed=y&:display_count=yes
